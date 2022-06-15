@@ -39,6 +39,7 @@ echo "running scripts"
 sudo ./setup.sh
 sleep 5
 sudo ./GenerateProjectFiles.sh
+echo "if you got an error use - sudo ln -s /etc/ssl /usr/lib/ssl and procced with manual install" 
 echo "compiling"
 sleep 5
 sudo make
