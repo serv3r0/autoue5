@@ -15,3 +15,14 @@ echo "   ░              ░    ░        ░  ░     ░  ░    ░  ░   
 
 cd /home/$usr/Documents/UnrealEngine/Engine/Binaries/Linux
 ./UnrealEditor
+
+echo " ▄▄▄▄ ▓██   ██▓▓█████ "
+echo "▓█████▄▒██  ██▒▓█   ▀ "
+echo "▒██▒ ▄██▒██ ██░▒███   "
+echo "▒██░█▀  ░ ▐██▓░▒▓█  ▄ "
+echo "░▓█  ▀█▓░ ██▒▓░░▒████▒"
+echo "░▒▓███▀▒ ██▒▒▒ ░░ ▒░ ░"
+echo "▒░▒   ░▓██ ░▒░  ░ ░  ░"
+echo " ░    ░▒ ▒ ░░     ░   "
+echo " ░     ░ ░        ░  ░"
+echo "      ░░ ░            "
